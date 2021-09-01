@@ -1,16 +1,16 @@
-# CryptoEasy Business Whitepaper V1.4
+# CryptoEasy Business Whitepaper V1.5
 
 ![CryptoEasy](https://user-images.githubusercontent.com/41304724/131218850-be23fa72-b810-448e-a6eb-135276162899.png)
 
 ## Abstract
 
-This business whitepaper introduces the DeFi solutions and services CryptoEasy intends to offer its users via its web/ mobile application interface, its partners, and its unique DeFi utility token - *EASY*. It also contains technical requirements and concepts, nevertheless technical aspects and implementation will be the focus of a later dedicated technical whitepaper.
+This business whitepaper introduces the DeFi solutions and services CryptoEasy intends to offer its users via its web/ mobile application interface, its partners, and its unique DeFi utility token - *EASY*. It also contains technical requirements and concepts, nevertheless, technical aspects and implementation will be the focus of a later dedicated technical whitepaper.
 
 The ambition of CryptoEasy is to become the **leading open DeFi platform** on Tezos with its unique value proposition offering **exposure** to **personalized multi-asset portfolios,** thus going beyond more traditional DeFi components (e.g., staking pools, farms, etc.).
 
 ## Introduction
 
-One of the key concerns for investors in the digital asset market is the diversity of technologies (e.g., protocols, platforms, languages) and the resulting thousands of asset types leading to significant complexity to build, share, and manage their desired portfolios. Furthermore, investors struggle to keep a clear overview when exploring, investing in, and storing their digital assets. On the other hand, from the financial services intermediaries perspective, accessing or offering those portfolios is often hindered by further practical or regulatory constraints.
+One of the key concerns for investors in the digital asset market is the diversity of technologies (e.g., protocols, platforms, languages) and the resulting thousands of asset types leading to significant complexity to build, share, and manage their desired portfolios. Furthermore, investors struggle to keep a clear overview when exploring, investing in, and storing their digital assets. On the other hand, from the financial services intermediaries' perspective, accessing or offering those portfolios is often hindered by further practical or regulatory constraints.
 
 Specifically, following recurring questions and concerns appear on the user/ investor side, all related to digital asset portfolios:
 
@@ -102,7 +102,7 @@ As shown in the visual, users can also filter the listed portfolios by a set of 
 
 Over time, further filtering and selection options will be added to the Portfolio Dashboard Explorer.
 
-Some of the **portfolios types** we could initially propose in the Portfolio Dashboard Explorer are listed in the Appendix (**Table 1**). They will be matched with users based on their profile (e.g., Risk category, Diversification, Time horizon) and users' interests and values. Further (advanced) matching criteria will be taken into acount at a later stage.
+Some of the **portfolios types** we could initially propose in the Portfolio Dashboard Explorer are listed in the Appendix (***Table 1***). They will be matched with users based on their profile (e.g., Risk category, Diversification, Time horizon) and users' interests and values. Further (advanced) matching criteria will be taken into account at a later stage.
 
 We want to continuously increase the number of listed portfolios and let users and partners personalize, create, and share portfolios on CryptoEasy.io. Pushing the personalization further we want to enable users to build their **custom portfolios** from the CryptoEasy interface and share them with the community.
 
@@ -116,10 +116,10 @@ Users can select listed portfolios to display further information about portfoli
 
 We will introduce 3 tiers of portfolios in the Portfolio Dashboard Explorer:
 
-1. **Fixed portfolios**: Asset allocation is fixed through time and neither portfolio originator neither users can change the portfolio composition. These portfolios typically don't incur any transaction costs but the portfolio originator can ask for a fixed performance fee from the users.
-2. **Dynamic portfolios**: Portfolio originator can manage and rebalance the portfolios through time affecting the asset allocation and thus the potential performance and associated staking rewards. The benefit is that users don't have to rebalance the portfolios themselves and can rely on the expertise of the portfolio originators. As opposed to fixed portfolios there is typically a management/ performance management fee rewarding the portfolio originators. On the other hand, the benefit for the portfolios originators leveraging *EASY* is that they don't have to invest in the underlying assets and fulfill are related storage and regulatory constraints. Please note that dynamic portfolios determined and managed by partners can bear additional staking conditions via portfolio policy (e.g., minimal amount, freeze period, only long positions allowed).
+1. **Fixed portfolios**: The asset allocation is fixed through time and neither portfolio originator neither users can change the portfolio composition. These portfolios typically don't incur any transaction costs but the portfolio originator can ask for a fixed performance fee from the users.
+2. **Dynamic portfolios**: The portfolio originator can manage and rebalance the portfolios through time affecting the asset allocation and thus the potential performance and associated staking rewards. The benefit is that users don't have to rebalance the portfolios themselves and can rely on the expertise of the portfolio originators. As opposed to fixed portfolios there is typically a management/ performance management fee rewarding the portfolio originators. On the other hand, the benefit for the portfolios originators leveraging *EASY* is that they don't have to invest in the underlying assets and fulfill are related storage and regulatory constraints. Please note that dynamic portfolios determined and managed by partners can bear additional staking conditions via portfolio policy (e.g., minimal amount, freeze period, only long positions allowed).
    Use case: Partner trading bot rebalancing the portfolios based on a trading algorithm via a management/ performance transaction fee.
-3. **Dynamic managed portfolios (to be developed later)**: Like for dynamic portfolios, originators can manage and rebalance the portfolios through time for users. The key difference is that they also invest/ manage in the underlying portfolio of assets and are regulated to do so. This option will be developed at a later stage when exploring the integration with security tokens. Also dynamic managed portfolios determined by partners can bear additional staking conditions via portfolio policy (e.g., minimal amount, freeze period, only long positions allowed).
+3. **Dynamic managed portfolios (to be developed later)**: Like for dynamic portfolios, originators can manage and rebalance the portfolios over time for users. The key difference is that they also invest/ manage in the underlying portfolio of assets and are regulated to do so. This option will be developed at a later stage when exploring the integration with security tokens. Also dynamic managed portfolios determined by partners can bear additional staking conditions via portfolio policy (e.g., minimal amount, freeze period, only long positions allowed).
    Use case: Partner asset manager investing and managing the underlying portfolio via a management/ performance transaction fee.
 
 The Portfolio Dashboard Explorer will give users **three** **paths** to continue their investment and user experience on [CryptoEasy.io](https://cryptoeasy.io).
@@ -145,7 +145,7 @@ Moreover for now we only plan to release *EASY* as a single utility token fulfil
 
 By staking their *EASY* tokens to their favorite portfolios users can earn in the form of *EASY* portfolio staking rewards the returns of their chosen portfolios. Thus getting exposure to digital asset portfolios like a digital asset index or ETF without having to invest in the underlying assets and thus comply with a related regulatory framework. As such *EASY* portfolio staking can be compared to a **"betting option"** as neither the users nor CryptoEasy.io hold the underlying portfolio of digital assets. We introduce this new staking mechanism as **"Proof-of-Return"**.
 
-Practically, users can stake their *EASY* tokens to one or multiple portfolios listed in the Portfolio Dashboard Explorer. As already mentioned, users will be able to allocate none, part, or all of their tokens to the portfolios of their choice. Users will also be able to retrieve their portfolios at **any time** (depending on portfolio policy) and the returns will be updated continuously following almost real-time performance of portfolios (5 min. moving average price). The "Proof-of-Return" staking mechanism will also enable users to short portfolios to also staking rewards when portfolio prices drop. Enabling shorting is important to facilitate efficient market dynamics.
+Practically, users can stake their *EASY* tokens to one or multiple portfolios listed in the Portfolio Dashboard Explorer. As already mentioned, users will be able to allocate none, part, or all of their tokens to the portfolios of their choice. Users will also be able to retrieve their portfolios at **any time** (depending on portfolio policy) and the returns will be updated continuously following the almost real-time performance of portfolios (5 min. moving average price). The "Proof-of-Return" staking mechanism will also enable users to short portfolios to also staking rewards when portfolio prices drop. Enabling shorting is important to facilitate efficient market dynamics.
 
 When the performance of portfolio staking will be negative (portfolio negative returns if users hold a long position, portfolio positive returns if users hold a short position) tokens will also be **"burned"** or destroyed when the tokens are retrieved from staked portfolios. The goal hereby is to reward only good investments and control the supply of *EASY* tokens.
 
@@ -163,7 +163,7 @@ Alice can retrieve her staked tokens at time T on Portfolio 1 and will have 52.5
 
 |              | DA - A | DA - B | DA - C | DA - D | DA - E | Weigh. returns |
 | ------------ | ------ | ------ | ------ | ------ | ------ | -------------- |
-| Returns at T | 5%     | -1%    | 15%    | -3%    | 0.10%  |                |
+| Returns at T | 5%     | -1%    | 15%    | -3%    | 10%    |                |
 | Portfolio 1  | 50%    | 30%    | 20%    | 0%     | 0%     | 5%             |
 | Portfolio 2  | 0%     | 0%     | 0%     | 60%    | 40%    | -2%            |
 
@@ -179,13 +179,13 @@ Please note these reward tokens can only be claimed when *EASY* tokens are retri
 
 Thus the overall resulting monetary emission on a "macro-economic" level should be the average return of all listed and potential digital asset portfolios in the market. For instance, if the total digital asset market capitalization grows by 2% the *EASY* token supply should also grow in a similar fashion by 2%. Conversely, if the digital asset market capitalization shrinks by 2% the same percentage of *EASY* tokens should be burned leading to a smaller supply of *EASY* tokens. In the latter case, the rate of emission of *EASY* will also become negative during corrections or longer bear market trends resulting in an overall net “burning” of *EASY* tokens.
 
-The resulting tokeneconomics should result in an overall emission equal to the average return of all portfolios. This elasticity of *EASY* monetary supply should enable it to become a **"market-neutral"** digital currency. This could lead to *EASY* becoming a **stable digital currency** in the long term following the growth or contraction of the entire digital asset market and well beyond of the entire economy represented through all possible portfolios, spanning well beyond the current crypto-market.
+The resulting tokeneconomics should result in an overall emission equal to the average return of all portfolios. This elasticity of *EASY* monetary supply should enable it to become a **"market-neutral"** digital currency. This could lead to *EASY* becoming a **stable digital currency** in the long term following the growth or contraction of the entire digital asset market and well beyond the entire economy represented through all possible portfolios, spanning well beyond the current crypto-market.
 
 CryptoEasy will test and monitor closely the emission of *EASY* via the "Proof-of-Return" mechanisms in accordance with the underlying market (e.g., for instance with quantitative simulations). Moreover, transaction costs and stability mechanisms introduced in the next section should help to stabilize the emission of *EASY.*
 
 ##### Transaction Costs and Stability mechanisms
 
-We have incorporated a safety/ stability mechanism in case the emission percentage of *EASY* diverges too much from the digital asset market growth. For instance when portfolio staking on CryptoEasy is not representative of real market portfolio allocation and related frictions/ constraints, or when coordinated market manipulation on certain digital assets/ portfolios takes place. This divergence could cause an over-emission of *EASY* tokens during certain time periods. This safety mechanism will operate at the level of the transaction costs in the form of a Spread that will not be arbitrary determined but follow by a market-related formula as explained below.
+We have incorporated a safety/ stability mechanism in case the emission percentage of *EASY* diverges too much from the digital asset market growth. For instance when portfolio staking on CryptoEasy is not representative of real market portfolio allocation and related frictions/ constraints, or when coordinated market manipulation on certain digital assets/ portfolios takes place. This divergence could cause an over-emission of *EASY* tokens during certain time periods. This safety mechanism will operate at the level of the transaction costs in the form of a Spread that will not be arbitrarily determined but follow by a market-related formula as explained below.
 
 We define **Spread** as basis points (bps) difference between *EASY* 1h MA returns and 1h MA market returns multiplied by a factor/ function still to be determined. For instance, if during a certain time period the market grows by 2% and *EASY* token by 4% we obtain a 200 bps difference that will be multiplied by this  factor/ function still to be determined (e.g., 10^-5). Important to note that this factor/ function will be set at the launch of CryptoEasy and will be readjusted over time transparently by voting by all *EASY* token holders
 
@@ -209,20 +209,26 @@ What will determine the value of *EASY,* when like other cryptocurrencies it has
 
 Especially in the short term, the increasing listing of portfolios, the growing network effects, and the market demand should lead to a rapid price appreciation of *EASY*. The majority of the initial supply should also be issued at the beginning to match the rapid growth of CryptoEasy. In the long term, and over time by design, the tokeneconomics should lead to stable prices aligned with the growing maturity of the overall digital asset market.
 
-Regarding valuations based on underyling direct investments, CryptoEasy plans to build one or multiple Security Tokens backed by underlying portfolios where regulated partners will invest on behalf of their investors. Both tokens will be separated in usage and function.
+Regarding valuations based on underlying direct investments, CryptoEasy plans to build one or multiple Security Tokens backed by underlying portfolios where regulated partners will invest on behalf of their investors. Both tokens will be separated in usage and function.
 
-##### Distribution (WIP)
+##### Supply and Distribution (WIP)
 
-The total Initial supply of *EASY* tokens will be provided upfront to provide transparency on token distribution and enforce scarcity of supply. *EASY* tokens will be initially issued to users/ investors via an Initial Decentralized Exchange Offering (IDO), direct private sales at discount price, as well as airdrops, to reward our most active and engaged supporters. The initial total supply of *EASY* tokens will be determined before the IDO. The remaining *EASY* tokens will follow two modes of distribution. The first mode will oversee the token distributed to team members, advisors, equity investors, exchanges, etc. following a 3-year vesting schedule. The second mode will follow the staking mechanism so that *EASY* are emitted progressively over time either by pre-determined pool staking (e.g., 10% APY) or later via "Proof-of-Return" portfolio staking mechanism.
+The **total Initial supply** of *EASY* tokens will be provided upfront to provide transparency on token distribution and enforce scarcity of supply. *EASY* tokens will be initially issued to users/ investors via an **Initial Decentralized Exchange Offering (IDO)**, direct private sales at discount price, as well as airdrops, to reward our most active and engaged supporters. The initial total supply of *EASY* tokens will be determined before the IDO. The remaining *EASY* tokens will follow two modes of distribution. The first mode will oversee the token distributed to team members, advisors, equity investors, exchanges, etc. following a 3-year vesting schedule. The second mode will follow the staking mechanism so that *EASY* are emitted progressively over time either by pre-determined pool staking (e.g., 10% APY) or later via "Proof-of-Return" portfolio staking mechanism.
 
-We propose the following token distribution of the **total initial supply**:
+We propose the following token price and **supply** (see ***Table 2*** in Appendix for details)
 
-- 55% via staking (either via "Proof-of-Return" portfolio staking or direct staking)
-- 45% initial offering via:
-  - 24% for IDO
-  - 10% for team and advisors (3-year progressive vesting schedule)
-  - 6% for private sales (following lockup period or vesting schedule)
-  - 5% for business development (e.g., exchange listings) and marketing activities (e.g., Airdrops)
+- Total initial supply set at **6M** tokens
+- IDO supply of **1.5M** tokens with a price set at **0.2$**
+- Expected dollar amount raised through the IDO of **300K$**
+
+We propose the following token **distribution** of the total initial supply (see ***Table 3* **in Appendix for details)
+
+- **45%** via staking (either via "Proof-of-Return" portfolio staking or direct staking)
+- **35%** initial offering via:
+  - 25% for IDO and listing on [QuipuSwap](https://quipuswap.com/swap)
+  - 10% for private sales (following lockup period and vesting schedule)
+- **10%** for business development (e.g., exchange listings, strategic partnerships) and marketing activities (e.g., Airdrops) - (following lockup period and 3-year vesting schedule)
+- **10%** for team and advisors (following lockup period and 3-year vesting schedule)
 
 **Direct staking** will be offered before the launch of CryptoEasy portfolio staking to reward early investors, assure price stability, and generate enough supply to cover the rapid growth of listed portfolios in the Portfolio Dashboard Explorer.
 
@@ -234,7 +240,7 @@ The *EASY* token will leverage Tezos Blockchain and its Delegated Proof-of-Stake
 
 The original EASY IDO smart contracts will be developed together with [Rocket Launchpad.](https://rocketlaunchpad.io/) For the development of further functionalities of *EASY,* we plan to work with an experienced technical partner close to Tezos core project to assist our internal development team and guarantee the full release of [CryptoEasy.io](https://cryptoeasy.io) functionalities in 2022.
 
-Technically, the major innovative challenge relies on building the "Proof-of-Return" portfolio staking mechanism leveraging oracle data at the level of, and thus specific to, each single portfolio.
+Technically, the major innovative challenge relies on building the "Proof-of-Return" portfolio staking mechanism leveraging oracle data at the level of, and thus specific to, each and every single portfolio.
 
 List of all input data elements needed:
 
@@ -259,7 +265,7 @@ The detailed technical set-up behind CryptoEasy and *EASY* token will be detaile
 
 ### DIY Personalized Journey (not part of the initial development scope)
 
-Following services will not be part of the initial development scope as opposed to Portfolio Designer and *EASY* token. They will rather complement the user journey in the digital asset ecosystem and provide a single dashboard overview. The following pages will provide the users with the **Exchanges**, **Wallets**, and **Services t**hat match their selected portfolios and digital assets.Users will either be able to set up and implement their investment strategy on their own or leverage our **partner ecosystem.**
+Following services will not be part of the initial development scope as opposed to Portfolio Designer and *EASY* token. They will rather complement the user journey in the digital asset ecosystem and provide a single dashboard overview. The following pages will provide the users with the **Exchanges**, **Wallets**, and **Services** that match their selected portfolios and digital assets. Users will either be able to set up and implement their investment strategy on their own or leverage our **partner ecosystem.**
 
 **1. Selected digital assets in portfolios:** (preliminary visuals subject to changes)
 
@@ -281,7 +287,7 @@ Following services will not be part of the initial development scope as opposed 
 
 ![CEio3_210404](https://user-images.githubusercontent.com/41304724/131218933-aec29407-0e38-4d71-a4b5-98054c1b4c0c.png)
 
-6. Finally all information will be wrapped up in a **"one-pager" investment roadmap:** (preliminary visuals subject to changes)
+6. Finally, all information will be wrapped up in a **"one-pager" investment roadmap:** (preliminary visuals subject to changes)
 
 ![CEio8_210404](https://user-images.githubusercontent.com/41304724/131218936-1ac79c67-5ace-4253-9946-acd96c6fae0c.png)
 
@@ -313,14 +319,14 @@ We plan to launch CryptoEasy and issue *EASY* token in Q3/ Q4 2021 and gradually
   * [ ] Creation of CryptoEasy AG in Switzerland with raised funds of IDO
   * [ ] Discussion with institutional investors to raise more capital (e.g., VCs)
   * [ ] Onboarding of further team members with raised funds of IDO
-  * [ ] Launch of first Airdrop cycle
+  * [ ] Launch of the first Airdrop cycle
   * [ ] Kick-off of core development of CryptoEasy DeFi platform
 * November/ December 2021
 
   * [ ] First Raise of additional funds with external institutional investors
   * [ ] Initiation of Grant application with Tezos foundation
   * [ ] Implementation of regular technical progress updates with the community
-  * [ ] Launch of second Airdrop Cycle
+  * [ ] Launch of the second Airdrop Cycle
   * [ ] Enablement of a staking pool for *EASY* tokens on CryptoEasy.io
   * [ ] Initiation of talks with exchanges to list *EASY* tokens
   * [ ] Enhancement of the "Demo" version of the Portfolio Designer
@@ -373,7 +379,7 @@ With the launch of the DIY *Personalized user journey* further additional servic
 
 ##### Security Tokens
 
-Depending on the regulatory and compliance conditions we aim to create one or multiple *EASY* security tokens backed by direct investments in selected portfolios. The direct investments/ custody would be undertaken by our partners. For instance, trading bots on exchanges, regulated funds or assets managers could leverage the security token to offer dynamically managed portfolios to institutional investors.
+Depending on the regulatory and compliance conditions we aim to create one or multiple *EASY* security tokens backed by direct investments in selected portfolios. The direct investments/ custody would be undertaken by our partners. For instance, trading bots on exchanges, regulated funds, or assets managers could leverage the security token to offer dynamically managed portfolios to institutional investors.
 
 ## Appendix
 
@@ -406,6 +412,50 @@ Some of the **portfolios types** we could initially propose in the Portfolio Das
 
 The variables and their values (Risk category, Diversification, and Time horizon) in this table are illustrative but enable to understand how portfolios will be built, selected and proposed based on user profiles.
 
+
+
+**Table 2  - Token price** and **Supply projections**
+
+| Market cap projections for EASY                | Scenario 1 | Scenario 2 | Scenario 3 | Scenario 4 |
+| ---------------------------------------------- | ---------- | ---------- | ---------- | ---------- |
+| $ Tezos Price at time of IDO                   | 4          | 5          | 6          | 7          |
+| % of Tezos Price                               | 0.05       | 0.04       | 0.033      | 0.029      |
+| $ EASY Price at IDO                            | 0.2        | 0.2        | 0.2        | 0.2        |
+| $ EASY Price at Private Sales                  | 0.12       | 0.12       | 0.12       | 0.12       |
+| Total number of Tokens of TOTAL initial        |            |            |            |            |
+| Supply                                         | 6'000'000  | 6'000'000  | 6'000'000  | 6'000'000  |
+| Number of Tokens raised in IDO                 | 1'500'000  | 1'500'000  | 1'500'000  | 1'500'000  |
+| Number of Tokens raised in Private Sales       | 600'000    | 600'000    | 600'000    | 600'000    |
+|                                                |            |            |            |            |
+| $ market cap raised by Private Sales           | 72'000     | 72'000     | 72'000     | 72'000     |
+| $ market cap raised by IDO                     | 300'000    | 300'000    | 300'000    | 300'000    |
+| $ market cap circulating supply by Nov         |            |            |            |            |
+| 2021 (EASY same price)                         | 324'000    | 324'000    | 324'000    | 324'000    |
+| $ market cap circulating supply by Jan         |            |            |            |            |
+| 2021 (EASY same price)                         | 344'000    | 344'000    | 344'000    | 344'000    |
+|                                                |            |            |            |            |
+| $ market cap final 2022/2023 (EASY same price) | 600'000    | 600'000    | 600'000    | 600'000    |
+| $ market cap final 2022/2023 (Easy x5)         | 3'000'000  | 3'000'000  | 3'000'000  | 3'000'000  |
+| $ market cap final 2022/2023 (Easy x10)        | 6'000'000  | 6'000'000  | 6'000'000  | 6'000'000  |
+| $ market cap final 2022/2023 (Easy x50)        | 30'000'000 | 30'000'000 | 30'000'000 | 30'000'000 |
+|                                                |            |            |            |            |
+| $ market cap final 2023+ (same price)          | 1'200'000  | 1'200'000  | 1'200'000  | 1'200'000  |
+| $ market cap final 2023+ (Easy x5)             | 6'000'000  | 6'000'000  | 6'000'000  | 6'000'000  |
+| $ market cap final 2023+ (Easy x10)            | 12'000'000 | 12'000'000 | 12'000'000 | 12'000'000 |
+| $ market cap final 2023+ (Easy x50)            | 60'000'000 | 60'000'000 | 60'000'000 | 60'000'000 |
+
+
+**Table 3  - Token Distribution**
+
+| Repartition   | Cadence of payments | Lockup       | Vesting schedule   | Cadence     |
+| ------------- | ------------------- | ------------ | ------------------ | ----------- |
+| Staking       | 45%                 | until launch | depending on users | continiuous |
+| IDO           | 25%                 | -            | 25.09.21           | -           |
+| Team          | 10% ( or 12%)       | 3 years      | 6 months           | 6 months    |
+| Private Sales | 10%                 | 3 months     | 3 months           | monthly     |
+| Business Dev  | 10% (or 8%)         | 3 years      | 6 months           | quarterly   |
+
+
 ---
 
 Author:
@@ -416,4 +466,4 @@ Supporting authors:
 
 Eric Vitrier, Jonas Fort, Christian Kunz
 
-18.08.2021
+01.09.2021
