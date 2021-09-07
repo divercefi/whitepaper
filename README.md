@@ -143,7 +143,7 @@ Moreover for now we only plan to release *EASY* as a single utility token fulfil
 
 #### Deep Dive - Staking "Proof-of-Return" mechanism
 
-By staking their *EASY* tokens to their favorite portfolios users can earn in the form of *EASY* portfolio staking rewards the returns of their chosen portfolios. Thus getting exposure to digital asset portfolios like a digital asset index or ETF without having to invest in the underlying assets and thus comply with a related regulatory framework. As such *EASY* portfolio staking can be compared to a **"betting option"** as neither the users nor CryptoEasy.io hold the underlying portfolio of digital assets. We introduce this new staking mechanism as **"Proof-of-Return"**.
+By staking their *EASY* tokens to their favorite portfolios users can earn in the form of *EASY* portfolio staking rewards the returns of their chosen portfolios. Thus getting exposure to digital asset portfolios like a digital asset index or ETF without having to invest in the underlying assets and thus comply with a related regulatory framework. As such *EASY* portfolio staking can be compared to a **"financial option"** as neither the users nor CryptoEasy.io hold the underlying portfolio of digital assets. We introduce this new staking mechanism as **"Proof-of-Return"**.
 
 Practically, users can stake their *EASY* tokens to one or multiple portfolios listed in the Portfolio Dashboard Explorer. As already mentioned, users will be able to allocate none, part, or all of their tokens to the portfolios of their choice. Users will also be able to retrieve their portfolios at **any time** (depending on portfolio policy) and the returns will be updated continuously following the almost real-time performance of portfolios (5 min. moving average price). The "Proof-of-Return" staking mechanism will also enable users to short portfolios to also staking rewards when portfolio prices drop. Enabling shorting is important to facilitate efficient market dynamics.
 
@@ -412,8 +412,6 @@ Some of the **portfolios types** we could initially propose in the Portfolio Das
 
 The variables and their values (Risk category, Diversification, and Time horizon) in this table are illustrative but enable to understand how portfolios will be built, selected and proposed based on user profiles.
 
-
-
 **Table 2  - Token price** and **Supply projections**
 
 | Market cap projections for EASY                | Scenario 1 | Scenario 2 | Scenario 3 | Scenario 4 |
@@ -444,17 +442,15 @@ The variables and their values (Risk category, Diversification, and Time horizon
 | $ market cap final 2023+ (Easy x10)            | 12'000'000 | 12'000'000 | 12'000'000 | 12'000'000 |
 | $ market cap final 2023+ (Easy x50)            | 60'000'000 | 60'000'000 | 60'000'000 | 60'000'000 |
 
-
 **Table 3  - Token Distribution**
 
-| Repartition   | Cadence of payments | Lockup       | Vesting schedule   | Cadence     |
-| ------------- | ------------------- | ------------ | ------------------ | ----------- |
-| Staking       | 45%                 | until launch | depending on users | continiuous |
-| IDO           | 25%                 | -            | 25.09.21           | -           |
-| Team          | 10% ( or 12%)       | 3 years      | 6 months           | 6 months    |
-| Private Sales | 10%                 | 3 months     | 3 months           | monthly     |
-| Business Dev  | 10% (or 8%)         | 3 years      | 6 months           | quarterly   |
-
+| Repartition   | Cadence of payments | Vesting schedule (until full release) | Lockup             | Cadence    |
+| ------------- | ------------------- | ------------------------------------- | ------------------ | ---------- |
+| Staking       | 45%                 | until launch                          | depending on users | continuous |
+| IDO           | 25%                 | -                                     | 25.09.21           | -          |
+| Team          | 10% ( or 12%)       | 3 years                               | 6 months           | 6 months   |
+| Private Sales | 10%                 | 3 months                              | 3 months           | monthly    |
+| Business Dev  | 10% (or 8%)         | 3 years                               | 6 months           | quarterly  |
 
 ---
 
