@@ -6,7 +6,7 @@
 
 This business whitepaper introduces the DeFi solutions and services CryptoEasy intends to offer its users via its web/ mobile application interface, its partners, and its unique DeFi utility token - *EASY*. It also contains technical requirements and concepts, nevertheless, technical aspects and implementation will be the focus of a later dedicated technical whitepaper.
 
-The ambition of CryptoEasy is to become the **leading open DeFi platform** on Tezos with its unique value proposition offering **exposure** to **personalized multi-asset portfolios,** thus going beyond more traditional DeFi components (e.g., staking pools, farms, etc.).
+The ambition of CryptoEasy is to become the **leading open DeFi ecosystem** on Tezos with its unique value proposition offering **exposure** to **personalized multi-asset portfolios,** thus going beyond more traditional DeFi components (e.g., staking pools, farms, etc.).
 
 ## Introduction
 
@@ -278,14 +278,13 @@ The detailed technical set-up behind CryptoEasy and *EASY* token will be detaile
 
 ### DeFi Dashboard (not part of the initial development scope)
 
-Following services will not be part of the initial development scope as opposed to Portfolio Designer and *EASY* token. They will rather complement the user journey in the digital asset ecosystem and provide a single dashboard overview. 
+Following services will not be part of the initial development scope as opposed to Portfolio Designer and *EASY* token. They will rather complement the user journey in the digital asset ecosystem and provide a single dashboard overview.
 
 **DeFi Dashboard overview:** (preliminary visuals subject to changes)
 
 Finally, all user footprint starting from the Portfolio Explorer will be wrapped up in a **"one-pager" investment roadmap:**
 
 ![DeFi Dashboard](https://user-images.githubusercontent.com/41304724/141292646-0afcadcf-9ab2-4c5c-9f93-dbdeee9007aa.png)
-
 
 #### **Deep Dive - Implementation Journey**
 
@@ -428,7 +427,6 @@ Some of the **portfolios types** we could initially propose in the Portfolio Exp
 
 The variables and their values (Risk category, Diversification, and Time horizon) in this table are illustrative but enable to understand how portfolios will be built, selected and proposed based on user profiles.
 
-
 **Table 2  - Token price** and **Supply projections**
 
 | Market cap projections for EASY                | Scenario 1 | Scenario 2 | Scenario 3 | Scenario 4 |
@@ -459,7 +457,6 @@ The variables and their values (Risk category, Diversification, and Time horizon
 | $ market cap final 2023+ (Easy x10)            | 12'000'000 | 12'000'000 | 12'000'000 | 12'000'000 |
 | $ market cap final 2023+ (Easy x50)            | 60'000'000 | 60'000'000 | 60'000'000 | 60'000'000 |
 
-
 **Table 3 -** **Token distribution**
 
 | Repartition   | Cadence of payments | Vesting schedule (until full release) | Lockup             | Cadence    |
@@ -471,8 +468,6 @@ The variables and their values (Risk category, Diversification, and Time horizon
 | Business Dev  | 8%                  | direct* or 3 years                    | 6 months           | quarterly  |
 
 *direct in case of Air Drops or contests
-
-
 
 **Visuals 1  - User Journey**
 
