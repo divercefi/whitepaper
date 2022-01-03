@@ -134,8 +134,7 @@ The Portfolio Explorer will give users **three** **paths** to continue their inv
 3. Be redirected to partner brokers/ exchanges to buy their desired portfolios with them.
 
 ### CryptoEasy Token (*EASY*)
-
-![CryptoEasy_200x200](https://user-images.githubusercontent.com/41304724/141292568-240000f3-f527-4559-a37c-06fa4ac454f5.png)
+![CryptoEasy - last logo 2021 - WEB (RGB) - HQ - 300 dpi](https://user-images.githubusercontent.com/41304724/147917929-2deb4ec5-9cfd-4c42-8eda-aa3f30893dcc.png)
 
 The *EASY* token will be at the center of our unique value proposition enabling users to get indirect exposure to popular and even to their personalized portfolios in the Portfolio Explorer. The exposure will be in the form of *EASY* tokens **portfolio staking rewards** that will depend on the performance returns of the portfolios that will be updated continuously following the almost real-time performance of portfolios (5min. moving average - MA price to avoid market manipulation). Depending on portfolio types, users will be able to retrieve their staking rewards at any time, transfer them or reinvest them in the same or other portfolios just undergoing transaction costs (see below).
 
