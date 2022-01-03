@@ -1,6 +1,6 @@
 # CryptoEasy Business Whitepaper V1.6
 
-![CryptoEasy](https://user-images.githubusercontent.com/41304724/141292325-5165ebce-500f-4a6b-8e6d-447d2e9fbb8a.png)
+![Signature logo Github](https://user-images.githubusercontent.com/41304724/147917841-18cfbd2d-ce61-46ba-b6b9-240a28ffabd3.png)
 
 ## Abstract
 
