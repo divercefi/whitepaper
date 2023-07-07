@@ -1,12 +1,12 @@
-# CryptoEasy Business Whitepaper V1.6
+# Divercefi Business Whitepaper V1.6
 
-![Signature logo Github](https://user-images.githubusercontent.com/41304724/147917841-18cfbd2d-ce61-46ba-b6b9-240a28ffabd3.png)
+![White Logo_POSITIF](https://github.com/cryptoeasy/whitepaper/assets/41304724/cc72254f-d7d7-4f22-a7de-f3cee7dac8a9)
 
 ## Abstract
 
-This business whitepaper introduces the DeFi solutions and services CryptoEasy intends to offer its users via its web/ mobile application interface, its partners, and its unique DeFi utility token - *EASY*. It also contains technical requirements and concepts, nevertheless, technical aspects and implementation will be the focus of a later dedicated technical whitepaper.
+This business whitepaper introduces the DeFi solutions and services Divercefi intends to offer its users via its web/ mobile application interface, its partners, and its unique DeFi utility token - *EASY*. It also contains technical requirements and concepts, nevertheless, technical aspects and implementation will be the focus of a later dedicated technical whitepaper.
 
-The ambition of CryptoEasy is to become the **leading open DeFi ecosystem** on Tezos with its unique value proposition offering **exposure** to **personalized multi-asset portfolios,** thus going beyond more traditional DeFi components (e.g., staking pools, farms, etc.).
+The ambition of Divercefi is to become the **leading open DeFi ecosystem** on Tezos with its unique value proposition offering **exposure** to **personalized multi-asset portfolios,** thus going beyond more traditional DeFi components (e.g., staking pools, farms, etc.).
 
 ## Introduction
 
@@ -23,9 +23,9 @@ Specifically, following recurring questions and concerns appear on the user/ inv
 * How can I get exposure to my selected portfolios without having to directly invest in and manage all the underlying assets?
 * How do I invest in optimal *hybrid* portfolios that also combine Cryptocurrencies with other traditional asset classes (e.g., commodities, securities)?
 
-Addressing those concerns is the mission of CryptoEasy to facilitate for everyone the (financial) access to digital assets, irrespective of their specific applications, platforms, and ecosystems. This includes users with low technological or financial expertise (Note: digital assets are today mostly known as Cryptocurrencies that can be transferred between users or bought on various exchanges/ brokers).
+Addressing those concerns is the mission of Divercefi to facilitate for everyone the (financial) access to digital assets, irrespective of their specific applications, platforms, and ecosystems. This includes users with low technological or financial expertise (Note: digital assets are today mostly known as Cryptocurrencies that can be transferred between users or bought on various exchanges/ brokers).
 
-Fundamentally, CryptoEasy will put users in the "driver seat" to navigate the digital asset ecosystem, centering on their desired personalized portfolios, and offering all (financial) services around on [CryptoEasy.io](https://cryptoeasy.io).
+Fundamentally, Divercefi will put users in the "driver seat" to navigate the digital asset ecosystem, centering on their desired personalized portfolios, and offering all (financial) services around on [divercefi.com](https://divercefi.com).
 
 ## Value Proposition
 
@@ -42,22 +42,22 @@ We propose **three unique solutions** centered on **digital asset personalized p
 
 #### *EASY* Token
 
-* A key enabler of CryptoEasy DeFi platform is the *EASY* token. Its main feature is **portfolio staking** enabling users to stake *EASY* tokens to popular/ personalized portfolios listed in the Portfolio Explorer. By staking their *EASY* tokens users can earn *EASY* staking rewards equivalent to the performance returns of their selected portfolios. *EASY* token staking can be compared to a "voting reward" and portfolios are only backed up by *EASY* token pools, as neither the users nor CryptoEasy.io hold the underlying portfolio of digital assets. The *EASY* token enables an indirect long or short exposure to digital assets portfolios without the need for users to set up the actual investments. *EASY* tokens offer the option to get this exposure to the performance of these portfolios. It is important to note that CryptoEasy is not a financial advisor, neither an asset manager, but a user interface and DeFi service provider in the digital asset ecosystem via its *EASY* utility token.
+* A key enabler of Divercefi platform is the *EASY* token. Its main feature is **portfolio staking** enabling users to stake *EASY* tokens to popular/ personalized portfolios listed in the Portfolio Explorer. By staking their *EASY* tokens users can earn *EASY* staking rewards equivalent to the performance returns of their selected portfolios. *EASY* token staking can be compared to a "voting reward" and portfolios are only backed up by *EASY* token pools, as neither the users nor divercefi.com hold the underlying portfolio of digital assets. The *EASY* token enables an indirect long or short exposure to digital assets portfolios without the need for users to set up the actual investments. *EASY* tokens offer the option to get this exposure to the performance of these portfolios. It is important to note that Divercefi is not a financial advisor, neither an asset manager, but a user interface and DeFi service provider in the digital asset ecosystem via its *EASY* utility token.
 
 #### **DeFi Dashboard (not part of the initial scope)**
 
 The DeFi Dashboard will consist of three core solutions:
 
 * **Aggregated portfolio overview** offering a personalized and consolidated overview to let users visualize and manage their portfolios and DeFi footprint
-* **Implementation Journey** assisting users by matching their profiles and portfolios with associated **exchanges, wallets, services, DApps,** etc. This path also guides and educates users through the digital asset ecosystem. Thus CryptoEasy acts as a trusted interface to help users explore the digital asset ecosystem when implementing their portfolios on their own.
-  Or, we will set up an **account integration** with our partners enabling users to set up and implement their selected digital asset portfolios directly with brokers, exchanges, and asset managers partnering with CryptoEasy.
-* **DeFi personalized solutions** enabling users to earn and manage DeFi rewards (e.g., saving, staking, liquidity mining, lending) from CryptoEasy or partners. Based on user profiles, complementary DeFi solutions will be proposed.
+* **Implementation Journey** assisting users by matching their profiles and portfolios with associated **exchanges, wallets, services, DApps,** etc. This path also guides and educates users through the digital asset ecosystem. Thus Divercefi acts as a trusted interface to help users explore the digital asset ecosystem when implementing their portfolios on their own.
+  Or, we will set up an **account integration** with our partners enabling users to set up and implement their selected digital asset portfolios directly with brokers, exchanges, and asset managers partnering with Divercefi.
+* **DeFi personalized solutions** enabling users to earn and manage DeFi rewards (e.g., saving, staking, liquidity mining, lending) from Divercefi or partners. Based on user profiles, complementary DeFi solutions will be proposed.
 
 ## User Journey and Detailed Offering
 
 ### Portfolio Designer
 
-Our services will be available on [CryptoEasy.io ](https://cryptoeasy.io)where users can first enter their **1) Profile** and **2) Interests and Values** and access the **Portfolio Explorer** (see visuals below). Users can also skip the profile configuration pages and access directly the Portfolio Explorer where they can discover, filter for, and select **popular non-personalized portfolios**.
+Our services will be available on [divercefi.com ](https://divercefi.com)where users can first enter their **1) Profile** and **2) Interests and Values** and access the **Portfolio Explorer** (see visuals below). Users can also skip the profile configuration pages and access directly the Portfolio Explorer where they can discover, filter for, and select **popular non-personalized portfolios**.
 
 #### Profile Page
 
@@ -108,7 +108,7 @@ Over time, further filtering and selection options will be added to the Portfoli
 
 Some of the **portfolios types** we could initially propose in the Portfolio Explorer are listed in the Appendix (***Table 1***). They will be matched with users based on their profile (e.g., Risk category, Diversification, Time horizon) and users' interests and values. Further (advanced) matching criteria will be taken into account at a later stage.
 
-We want to continuously increase the number of listed portfolios and let users and partners personalize, create, and share portfolios on CryptoEasy.io. Pushing the personalization further we want to enable users to build their **custom portfolios** from the CryptoEasy interface and share them with the community.
+We want to continuously increase the number of listed portfolios and let users and partners personalize, create, and share portfolios on divercefi.com. Pushing the personalization further we want to enable users to build their **custom portfolios** from the Divercefi interface and share them with the community.
 
 Also, the pool of available digital assets to build those (personalized) portfolios will grow over time to include hundreds and likely thousands of digital assets. Once the technical and regulatory constraints are cleared we also want to enable hybrid portfolios/ traditional asset portfolios composed of other asset classes (e.g., commodities, securities).
 
@@ -126,20 +126,20 @@ We will introduce 3 tiers of portfolios in the Portfolio Explorer:
 3. **Dynamic managed portfolios (to be developed later)**: Like for dynamic portfolios, originators can manage and rebalance the portfolios over time for users. The key difference is that they also invest/ manage in the underlying portfolio of assets and are regulated to do so. This option will be developed at a later stage when exploring the integration with security tokens. Also dynamic managed portfolios determined by partners can bear additional staking conditions via portfolio policy (e.g., minimal amount, freeze period, only long positions allowed).
    Use case: Partner asset manager investing and managing the underlying portfolio via a management/ performance transaction fee.
 
-The Portfolio Explorer will give users **three** **paths** to continue their investment and user experience on [CryptoEasy.io](https://cryptoeasy.io).
+The Portfolio Explorer will give users **three** **paths** to continue their investment and user experience on [divercefi.com](https://divercefi.com).
 
 1. Stake their ***EASY* tokens** to one or multiple portfolios. As mentioned before *EASY* tokens will not be invested in those portfolios directly but rather linked to the performance of these portfolios determining the variable staking reward credited in *EASY* tokens to users' wallets. Users will be able to stake none, part, or all of their tokens to the portfolio(s) of their choice. Users will be able to retrieve their *EASY* tokens at any time (depending on portfolio policy) but the portfolio staking rewards data will only retransmit the 5min. moving average (MA)  price to shield against sudden "flash" price spikes or market manipulation - see deep dive in *EASY* tokens in the subsequent section.
    When portfolios are selected and *EASY* tokens are staked to them they appear in the **Basket** at the bottom of the page.
 2. Continue to set up their portfolio themselves (DIY) by investing in the digital assets directly.
 3. Be redirected to partner brokers/ exchanges to buy their desired portfolios with them.
 
-### CryptoEasy Token (*EASY*)
+### Divercefi Token (*EASY*)
 
-![CryptoEasy - last logo 2021 - WEB (RGB) - HQ - 300 dpi](https://user-images.githubusercontent.com/41304724/147918038-0cb016a8-f8e5-43a5-99b7-c705de9f9151.png)
+![Divercefi - last logo 2021 - WEB (RGB) - HQ - 300 dpi](https://user-images.githubusercontent.com/41304724/147918038-0cb016a8-f8e5-43a5-99b7-c705de9f9151.png)
 
 The *EASY* token will be at the center of our unique value proposition enabling users to get indirect exposure to popular and even to their personalized portfolios in the Portfolio Explorer. The exposure will be in the form of *EASY* tokens **portfolio staking rewards** that will depend on the performance returns of the portfolios that will be updated continuously following the almost real-time performance of portfolios (5min. moving average - MA price to avoid market manipulation). Depending on portfolio types, users will be able to retrieve their staking rewards at any time, transfer them or reinvest them in the same or other portfolios just undergoing transaction costs (see below).
 
-*EASY* tokens price will be free-floating (determined by the market), available on multiple exchanges, and on [CryptoEasy.io](https://cryptoeasy.io) users will be able to deposit their *EASY* tokens from their wallets and choose to stake or not, part or all of their tokens, to one or multiple portfolios of their choice. When staked to a portfolio, the assets will be vested and cannot be transferred to another wallet or exchanged. Tokens will immediately *project* current portfolio staking rewards based on the current return of the portfolios they have been staked to, but those rewards will only materialize when *retrieved* and the exposure to the portfolios closed.
+*EASY* tokens price will be free-floating (determined by the market), available on multiple exchanges, and on [divercefi.com](https://divercefi.com) users will be able to deposit their *EASY* tokens from their wallets and choose to stake or not, part or all of their tokens, to one or multiple portfolios of their choice. When staked to a portfolio, the assets will be vested and cannot be transferred to another wallet or exchanged. Tokens will immediately *project* current portfolio staking rewards based on the current return of the portfolios they have been staked to, but those rewards will only materialize when *retrieved* and the exposure to the portfolios closed.
 
 *EASY* tokens can be categorized as a DeFi utility token that enables to "bet" or "follow" popular/ personalized portfolios without investing in the underlying digital assets. As such, it works as a staking pool where *EASY* tokens are staked and rewards paid out in *EASY* tokens.
 
@@ -147,7 +147,7 @@ Moreover for now we only plan to release *EASY* as a single utility token fulfil
 
 #### Deep Dive - Staking "Proof-of-Return" mechanism
 
-By staking their *EASY* tokens to their favorite portfolios users can earn in the form of *EASY* portfolio staking rewards the returns of their chosen portfolios. Thus getting exposure to digital asset portfolios like a digital asset index or ETF without having to invest in the underlying assets and thus comply with a related regulatory framework. As such *EASY* portfolio staking can be compared to a **"financial option"** as neither the users nor CryptoEasy.io hold the underlying portfolio of digital assets. We introduce this new staking mechanism as **"Proof-of-Return"**.
+By staking their *EASY* tokens to their favorite portfolios users can earn in the form of *EASY* portfolio staking rewards the returns of their chosen portfolios. Thus getting exposure to digital asset portfolios like a digital asset index or ETF without having to invest in the underlying assets and thus comply with a related regulatory framework. As such *EASY* portfolio staking can be compared to a **"financial option"** as neither the users nor divercefi.com hold the underlying portfolio of digital assets. We introduce this new staking mechanism as **"Proof-of-Return"**.
 
 Practically, users can stake their *EASY* tokens to one or multiple portfolios listed in the Portfolio Explorer. As already mentioned, users will be able to allocate none, part, or all of their tokens to the portfolios of their choice. Users will also be able to retrieve their portfolios at **any time** (depending on portfolio policy) and the returns will be updated continuously following the almost real-time performance of portfolios (5 min. moving average price). The "Proof-of-Return" staking mechanism will also enable users to short portfolios to also staking rewards when portfolio prices drop. Enabling shorting is important to facilitate efficient market dynamics.
 
@@ -185,19 +185,19 @@ Thus the overall resulting monetary emission on a "macro-economic" level should 
 
 The resulting tokenomics should result in an overall emission equal to the average return of all portfolios. This elasticity of *EASY* monetary supply should enable it to become a **"market-neutral"** digital currency. This could lead to *EASY* becoming a **stable digital currency** in the long term following the growth or contraction of the entire digital asset market and well beyond the entire economy represented through all possible portfolios, spanning well beyond the current crypto-market.
 
-CryptoEasy will test and monitor closely the emission of *EASY* via the "Proof-of-Return" mechanisms in accordance with the underlying market (e.g., for instance with quantitative simulations). Moreover, transaction costs and stability mechanisms introduced in the next section should help to stabilize the emission of *EASY.*
+Divercefi will test and monitor closely the emission of *EASY* via the "Proof-of-Return" mechanisms in accordance with the underlying market (e.g., for instance with quantitative simulations). Moreover, transaction costs and stability mechanisms introduced in the next section should help to stabilize the emission of *EASY.*
 
 ##### Transaction Costs and Stability mechanisms
 
-We have incorporated a safety/ stability mechanism in case the emission percentage of *EASY* diverges too much from the digital asset market growth. For instance when portfolio staking on CryptoEasy is not representative of real market portfolio allocation and related frictions/ constraints, or when coordinated market manipulation on certain digital assets/ portfolios takes place. This divergence could cause an over-emission of *EASY* tokens during certain time periods. This safety mechanism will operate at the level of the transaction costs in the form of a Spread that will not be arbitrarily determined but follow by a market-related formula as explained below.
+We have incorporated a safety/ stability mechanism in case the emission percentage of *EASY* diverges too much from the digital asset market growth. For instance when portfolio staking on Divercefi is not representative of real market portfolio allocation and related frictions/ constraints, or when coordinated market manipulation on certain digital assets/ portfolios takes place. This divergence could cause an over-emission of *EASY* tokens during certain time periods. This safety mechanism will operate at the level of the transaction costs in the form of a Spread that will not be arbitrarily determined but follow by a market-related formula as explained below.
 
-We define **Spread** as basis points (bps) difference between *EASY* 1h MA returns and 1h MA market returns multiplied by a factor/ function still to be determined. For instance, if during a certain time period the market grows by 2% and *EASY* token by 4% we obtain a 200 bps difference that will be multiplied by this  factor/ function still to be determined (e.g., 10^-5). Important to note that this factor/ function will be set at the launch of CryptoEasy and will be readjusted over time transparently by voting by all *EASY* token holders
+We define **Spread** as basis points (bps) difference between *EASY* 1h MA returns and 1h MA market returns multiplied by a factor/ function still to be determined. For instance, if during a certain time period the market grows by 2% and *EASY* token by 4% we obtain a 200 bps difference that will be multiplied by this  factor/ function still to be determined (e.g., 10^-5). Important to note that this factor/ function will be set at the launch of Divercefi and will be readjusted over time transparently by voting by all *EASY* token holders
 
 As a result, the total **transaction cost** (cost per transaction) is composed of three layers:
 
 * Network cost = Base network fees of Tezos network - around 0.01 - 0.05 XTZ per transaction. We will optimize smart contracts to lower this fee for users
 * Spread cost = Spread multiplied by transaction amount - for instance 0.05% if low Spread conditions (50 bps x 10^-5)
-* Transaction fee = Transaction Reward for CryptoEasy and partner
+* Transaction fee = Transaction Reward for Divercefi and partner
   * Processing fee: 0.2% - 0.4% of the transaction amount
   * Performance fee: depending on the portfolio originator
 
@@ -207,15 +207,15 @@ Additional DeFi features like staking pools and liquidity farms should enable to
 
 ##### Pricing and Valuation
 
-The value of *EASY* tokens will not be backed by, or pegged to, any specific/ general basket asset and thus it will not constitute a security. As mentioned *EASY* tokens will be free-floating and exchangeable on main exchanges. Moreover, the value of *EASY* will not be determined by CryptoEasy, which only maintains its DeFi interface and keeps control/ stability mechanisms around token in check. Eventually, users will be in the "driver seat" from the [CryptoEasy.io](https://cryptoeasy.io) interface and decide about their investment and transactions without receiving direct investment advice for specific portfolios.
+The value of *EASY* tokens will not be backed by, or pegged to, any specific/ general basket asset and thus it will not constitute a security. As mentioned *EASY* tokens will be free-floating and exchangeable on main exchanges. Moreover, the value of *EASY* will not be determined by Divercefi, which only maintains its DeFi interface and keeps control/ stability mechanisms around token in check. Eventually, users will be in the "driver seat" from the [divercefi.com](https://divercefi.com) interface and decide about their investment and transactions without receiving direct investment advice for specific portfolios.
 
-*EASY* token price will be free-floating and represent a broad set of portfolios investment tools and services. As a result, CryptoEasy will encourage the broad open ecosystem adoption of *EASY* (e.g., integration with exchanges, other DeFi platforms, portfolio tracking tools, and financial institutions). *EASY* utility token will be primarily used for portfolio staking but will also be leveraged by further DeFi functionalities (e.g., pools, lending, etc.) and exchangeable against services on CryptoEasy interface via its ecosystem of partners. Eventually, some governance functions should be attached to *EASY* to enable its holders to vote on key changes (e.g., Spread factor/ function).
+*EASY* token price will be free-floating and represent a broad set of portfolios investment tools and services. As a result, Divercefi will encourage the broad open ecosystem adoption of *EASY* (e.g., integration with exchanges, other DeFi platforms, portfolio tracking tools, and financial institutions). *EASY* utility token will be primarily used for portfolio staking but will also be leveraged by further DeFi functionalities (e.g., pools, lending, etc.) and exchangeable against services on Divercefi interface via its ecosystem of partners. Eventually, some governance functions should be attached to *EASY* to enable its holders to vote on key changes (e.g., Spread factor/ function).
 
-What will determine the value of *EASY,* when like other cryptocurrencies it has no direct underlying/ backing? Mainly its market dynamics and network effects derived from its DeFi utility and its unique monetary properties (price stability, liquidity, etc.). Concretely, we expect a steady price appreciation over time as the number of users on [CryptoEasy.io](https://cryptoeasy.io) increases, as the number of listed portfolios in the Portfolio Explorer grows, and as the use cases and applications offered by *EASY* broadens, for instance through partner ecosystem.
+What will determine the value of *EASY,* when like other cryptocurrencies it has no direct underlying/ backing? Mainly its market dynamics and network effects derived from its DeFi utility and its unique monetary properties (price stability, liquidity, etc.). Concretely, we expect a steady price appreciation over time as the number of users on [divercefi.com](https://divercefi.com) increases, as the number of listed portfolios in the Portfolio Explorer grows, and as the use cases and applications offered by *EASY* broadens, for instance through partner ecosystem.
 
-Especially in the short term, the increasing listing of portfolios, the growing network effects, and the market demand should lead to a rapid price appreciation of *EASY*. The majority of the initial supply should also be issued at the beginning to match the rapid growth of CryptoEasy. In the long term, and over time by design, the tokenomics should lead to stable prices aligned with the growing maturity of the overall digital asset market.
+Especially in the short term, the increasing listing of portfolios, the growing network effects, and the market demand should lead to a rapid price appreciation of *EASY*. The majority of the initial supply should also be issued at the beginning to match the rapid growth of Divercefi. In the long term, and over time by design, the tokenomics should lead to stable prices aligned with the growing maturity of the overall digital asset market.
 
-Regarding valuations based on underlying direct investments, CryptoEasy plans to build one or multiple Security Tokens backed by underlying portfolios where regulated partners will invest on behalf of their investors. Both tokens will be separated in usage and function.
+Regarding valuations based on underlying direct investments, Divercefi plans to build one or multiple Security Tokens backed by underlying portfolios where regulated partners will invest on behalf of their investors. Both tokens will be separated in usage and function.
 
 ##### Supply and Distribution (WIP)
 
@@ -238,19 +238,19 @@ We propose the following token **distribution** of the total initial supply (see
 
 ##### Staking and Liquidity mining
 
-**Direct staking** will be offered before the launch of CryptoEasy portfolio staking (November 2021) to reward early investors, assure price stability, and generate enough supply to cover the rapid growth of listed portfolios in the Portfolio Explorer. Direct staking will be offered in the form of staking pools with different lock time periods and corresponding APY rewards.
+**Direct staking** will be offered before the launch of Divercefi portfolio staking (November 2021) to reward early investors, assure price stability, and generate enough supply to cover the rapid growth of listed portfolios in the Portfolio Explorer. Direct staking will be offered in the form of staking pools with different lock time periods and corresponding APY rewards.
 
-To further add liqudity (TVL) and enable larger exchange volume for*EASY* liqduidity mining in the form of "farming" pools will be also implemented on CryptoEasy.io
+To further add liqudity (TVL) and enable larger exchange volume for*EASY* liqduidity mining in the form of "farming" pools will be also implemented on divercefi.com
 
 Half of the total initial supply (3M tokens) is dedicated to all forms of DeFi activities as well as Portfolio staking. Over time the funding of the DeFi rewards wil be converted from inflation to fees generated from the swapping, lending and the portfolio staking of EASY.
 
-The limited initial max supply will then be increased transparently and progressively, only if needed, following the "Proof-of-Return" emission mechanism. CryptoEasy will closely monitor the emission of *EASY* following the launch of all its DeFi functionalitiesTechnical Set-up (WIP)
+The limited initial max supply will then be increased transparently and progressively, only if needed, following the "Proof-of-Return" emission mechanism. Divercefi will closely monitor the emission of *EASY* following the launch of all its DeFi functionalitiesTechnical Set-up (WIP)
 
 ##### Technical Set-up (WIP)
 
-The *EASY* token will leverage Tezos Blockchain and its Delegated Proof-of-Stake (DPoS) mechanism. It will also leverage its native FA1.2. token framework. Tezos is a very scalable, interoperable Blockchain with a business-minded foundation and ecosystem. Furthermore, the vast experience and maturity available in the Tezos ecosystem, for instance for DeFi use cases, as well as the low fees of the Tezos network, will enable the development of the desired use cases of [CryptoEasy.io](https://Cryptoeasy.io). The functional code properties of Tezos will enable us to do rapid and secure updates to the Token protocol as well as verifications/ audits to the smart contracts. All those elements are needed to guarantee the stability of *EASY* supply and circulation (e.g., for instance to adjust the Spread formula) and comply with financial compliance rules, for instance as demanded by our financially regulated partners.
+The *EASY* token will leverage Tezos Blockchain and its Delegated Proof-of-Stake (DPoS) mechanism. It will also leverage its native FA1.2. token framework. Tezos is a very scalable, interoperable Blockchain with a business-minded foundation and ecosystem. Furthermore, the vast experience and maturity available in the Tezos ecosystem, for instance for DeFi use cases, as well as the low fees of the Tezos network, will enable the development of the desired use cases of [divercefi.com](https://divercefi.com). The functional code properties of Tezos will enable us to do rapid and secure updates to the Token protocol as well as verifications/ audits to the smart contracts. All those elements are needed to guarantee the stability of *EASY* supply and circulation (e.g., for instance to adjust the Spread formula) and comply with financial compliance rules, for instance as demanded by our financially regulated partners.
 
-The original EASY IDO smart contracts will be developed together with [Rocket Launchpad.](https://rocketlaunchpad.io/) For the development of further functionalities of *EASY,* we plan to work with an experienced technical partner close to Tezos core project to assist our internal development team and guarantee the full release of [CryptoEasy.io](https://cryptoeasy.io) functionalities in 2022.
+The original EASY IDO smart contracts will be developed together with [Rocket Launchpad.](https://rocketlaunchpad.io/) For the development of further functionalities of *EASY,* we plan to work with an experienced technical partner close to Tezos core project to assist our internal development team and guarantee the full release of [divercefi.com](https://divercefi.com) functionalities in 2022.
 
 Technically, the major innovative challenge relies on building the "Proof-of-Return" portfolio staking mechanism leveraging oracle data at the level of, and thus specific to, each and every single portfolio.
 
@@ -274,7 +274,7 @@ The following set of **smart contracts** have to be deployed to the Tezos Blockc
 
 Other smart contract languages compatible with [Michelson](https://www.michelson.org/) could also be used like [Archetype]().
 
-The detailed technical set-up behind CryptoEasy and *EASY* token will be detailed later in a specific dedicated technical whitepaper.
+The detailed technical set-up behind Divercefi and *EASY* token will be detailed later in a specific dedicated technical whitepaper.
 
 ### DeFi Dashboard (not part of the initial development scope)
 
@@ -290,24 +290,24 @@ Finally, all user footprint starting from the Portfolio Explorer will be wrapped
 
 **Implementation Journey** assists users by matching their profiles and portfolios with associated **exchanges, wallets, services, DApps,** etc. Concretely users get references, tools, links, and insights to set up and manage the digital asset portfolios they selected in the Portfolio Explorer. This path also guides and educates users through the digital asset ecosystem. For instance, it displays users with relevant practical, regulatory information, and distributed services that meet their digital asset portfolio needs (see ***Visuals 1*** in Appendix for details).
 
-Thus CryptoEasy acts as a trusted interface to help users explore the digital asset ecosystem. CryptoEasy will update its interface continuously through time and partner with ecosystem players to offer the largest diversity of products and services available.
-Or, we will set up a **brokerage/ exchange integration** with our partners enabling users to set up and implement their selected digital asset portfolios directly with brokers and exchanges partnering with CryptoEasy.
+Thus Divercefi acts as a trusted interface to help users explore the digital asset ecosystem. Divercefi will update its interface continuously through time and partner with ecosystem players to offer the largest diversity of products and services available.
+Or, we will set up a **brokerage/ exchange integration** with our partners enabling users to set up and implement their selected digital asset portfolios directly with brokers and exchanges partnering with Divercefi.
 
 ## Roadmap and Go-to-market (WIP)
 
-We plan to launch CryptoEasy and issue *EASY* token in Q3/ Q4 2021 and gradually release all core solutions in 2022
+We plan to launch Divercefi and issue *EASY* token in Q3/ Q4 2021 and gradually release all core solutions in 2022
 
 **Launch Roadmap** (blue checked boxes illustrate the achieved milestones - updated 09.11.2021)
 
 * August 2021:
 
-  * [X] Launch of [CryptoEasy.io ](https://cryptoeasy.io)landing page with the new logo to illustrate our concept
+  * [X] Launch of [divercefi.com ](https://divercefi.com)landing page with the new logo to illustrate our concept
   * [X] Announcement and kick-off of the partnership with Rocket Launchpad
   * [X] Discussion with key potential technical partners in Tezos ecosystem to support our technical development on Tezos (e.g., Nomadic labs)
-  * [X] Set-up/ re-activation of CryptoEasy marketing and social media footprint and first posts to create awareness (e.g., Medium, Telegram, Twitter, Instagram)
+  * [X] Set-up/ re-activation of Divercefi marketing and social media footprint and first posts to create awareness (e.g., Medium, Telegram, Twitter, Instagram)
 * September 2021:
 
-  * [X] Launch of additional sub-domains on [CryptoEasy.io](https://cryptoeasy.io) to display whitepaper and show some of the core features of CryptoEasy
+  * [X] Launch of additional sub-domains on [divercefi.com](https://divercefi.com) to display whitepaper and show some of the core features of Divercefi
   * [X] Onboarding of new team members, partners, and advisors to support the marketing, business, and technical development plan
   * [X] Collaboration with Rocket Launchpad on IDO campaign
   * [X] Publication of articles in renowned Crypto-specialized news websites (e.g., xtz.news)
@@ -320,24 +320,24 @@ We plan to launch CryptoEasy and issue *EASY* token in Q3/ Q4 2021 and gradually
   * [X] Marketing & community management set up accross channels
   * [X] Listing of EASY token on further DEXs (e.g., Smartlink)
   * [X] Discussion for further partnerships with business and technical partners
-  * [X] Initiation of the creation of CryptoEasy AG in Zug, Switzerland
+  * [X] Initiation of the creation of Divercefi AG in Zug, Switzerland
   * [X] Discussion with institutional investors to raise more equity capital (e.g., VCs)
   * [X] Onboarding of further full-time team members with raised funds of IDO
-  * [X] Kick-off of core development of CryptoEasy DeFi platform (starting with Staking page)
+  * [X] Kick-off of core development of Divercefi DeFi platform (starting with Staking page)
 * November/ December 2021:
 
   * [ ] Initiation of Grant application with Tezos foundation
   * [ ] Implementation of regular technical progress updates with the community
   * [ ] Launch of the first Airdrop Cycle
-  * [ ] Launch of staking pools for *EASY* tokens on CryptoEasy.io
-  * [ ] Launch of Farming LP solution on CryptoEasy.io
+  * [ ] Launch of staking pools for *EASY* tokens on divercefi.com
+  * [ ] Launch of Farming LP solution on divercefi.com
   * [ ] Talks with market makers and exchanges to list *EASY* tokens
   * [ ] Launch of the "Demo" version of Investor Profiler
   * [ ] First Raise of additional funds with external institutional investors
   * [ ] First talks with Swiss regulators to clarify the legal framework if and where needed
 * Q1 2022
 
-  * [ ] Launch of an ALPHA version of CryptoEasy Portfolio Designer
+  * [ ] Launch of an ALPHA version of Divercefi Portfolio Designer
   * [ ] Testing of *EASY* Token on the BETA version (e.g., testing in extreme market scenarios)
   * [ ] Announcement of further business partnership to offer dynamic portfolios in the Portfolio Explorer
   * [ ] Continuation of the talks with Swiss regulators regarding the legal framework
@@ -386,7 +386,7 @@ Features to be added to the Portfolio Designer after the initial launch targeted
 * Enhanced Portfolio tracking, testing, and simulation capabilities in the Portfolio Explorer
 * DeFi liquidity mining functionalities (e.g., staking pools, liquidity farms)
 
-With the launch of the DeFi Dashboard further additional services will be offered by CryptoEasy or by our ecosystem of partners to enable a full-fledged digital asset experience with *EASY*.
+With the launch of the DeFi Dashboard further additional services will be offered by Divercefi or by our ecosystem of partners to enable a full-fledged digital asset experience with *EASY*.
 
 * Financing options via *EASY* (e.g., lending)
 * Exchange/ Broker platform integration for end-to-end investment experience
