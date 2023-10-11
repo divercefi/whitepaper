@@ -140,7 +140,7 @@ educated by discovering assets from several asset classes, plan their
 investment strategies, and build their portfolios.
 
 Going forward, Investor profiling and AI chat interface will support
-investors in a personal way**.**
+investors in a personal way.
 
 **2.** **Portfolio Tracking:** Enable investors to track and backtest
 continuously any portfolio.
