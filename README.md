@@ -47,9 +47,9 @@ classes
 Our vision is comparable to the emergence of other ecosystems in other
 industries:
 
-* **Music with Spotify:** Social music experience platform not owned by record companies, combining users and artists\
+* **Music with Spotify:** Social music experience platform not owned by record companies, combining users and artists
 * **Networking with Linkedin:** Social networking experience platform
-not owned by companies, combining users, companies, and communities\
+not owned by companies, combining users, companies, and communities
 * **Investing with Divercefi:** Social investment experience interface
 not owned by banks and brokers, combining investors and regulated
 financial service providers
@@ -96,7 +96,6 @@ to keep a clear overview when exploring, investing in, and storing
 their digital assets. On the other hand, from the financial services
 intermediaries\' perspective, accessing or offering those portfolios
 is often hindered by further practical or regulatory constraints.
-
 * **Complex and incomplete solutions** (Existing supply solution
 side): Current DeFi solutions add complexity and are mainly
 technology-centred as opposed to being not
@@ -108,8 +107,7 @@ overexposed and limit their customers to withdraw their funds.
 
 In terms of impact, the lack of solutions facilitating intelligent
 investing as a whole has led to first and foremost millions of
-potential investors not going into liquid investments but locking
-
+potential investors not going into liquid investments but locking 
 hundreds of billions in savings accounts or illiquid overpriced real
 estate leading to no wealth creation. Secondly, for actual investors,
 poor investment management and overview combined with increased
@@ -137,14 +135,12 @@ management ecosystem:
 
 **1.** **Portfolio building:** Enable investors to get financially
 educated by discovering assets from several asset classes, plan their
-investment strategies, and build their portfolios.
-
+investment strategies, and build their portfolios.\
 Going forward, Investor profiling and AI chat interface will support
 investors in a personal way.
 
 **2.** **Portfolio Tracking:** Enable investors to track and backtest
-continuously any portfolio.
-
+continuously any portfolio.\
 The Portfolio discovery feature lets them connect their Banks, Broker,
 CeFii and DeFi solutions (e.g. wallets) to keep an overview of all
 their positions across platforms. Going forward, advanced metrics, risk scoring and dashboards will facilitate
@@ -174,9 +170,7 @@ DEXs/CEXs all at once, and select best DeFi liquidity rewards. Second,
 at a later stage in the future we plan to potentially base social
 investing on Token rewards introducing the concept of Portfolio
 Staking. Investors staking tokens on portfolios and earning/ losing
-tokens based on relative
-
-portfolio performance. The mechanism behind is defined as
+tokens based on relative portfolio performance. The mechanism behind is defined as
 Proof-of-Return and utilises Oracle smart contracts (for further
 reference please check the original Whitepaper V1.4).
 
@@ -196,11 +190,9 @@ Divercefi rely in:
 
 * **Most convenient portfolio building and tracking** browser
 experience on the market, for beginner to advanced investors
-
 * **Largest coverage of all possible asset types and classes**,
 potentially tens of thousands, to open the door to optimal portfolio
 diversification, hence our name ;)
-
 * **True Social, gamified and community-based** investing to enable a
 more inclusive and fun investment experience focused on quality
 instead of fees and middlemen
