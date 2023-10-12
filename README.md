@@ -47,10 +47,10 @@ classes
 Our vision is comparable to the emergence of other ecosystems in other
 industries:
 
-● **Music with Spotify:** Social music experience platform not owned by record companies, combining users and artists\
-● **Networking with Linkedin:** Social networking experience platform
+* **Music with Spotify:** Social music experience platform not owned by record companies, combining users and artists\
+* **Networking with Linkedin:** Social networking experience platform
 not owned by companies, combining users, companies, and communities\
-● **Investing with Divercefi:** Social investment experience interface
+* **Investing with Divercefi:** Social investment experience interface
 not owned by banks and brokers, combining investors and regulated
 financial service providers
 
@@ -78,7 +78,7 @@ providing liquidity.
 What are the key reasons that still make intelligent investing not
 accessible to everyone:
 
-● **Difficult asset and portfolio selection**
+* **Difficult asset and portfolio selection**
 (Retail demand side): Investors face difficult selection, set up and
 management of financial portfolios across asset classes.
 
@@ -86,7 +86,7 @@ Identifying trending and performing assets as well as assembling them
 in diversified and personalised portfolios remains the key entry
 challenge.
 
-● **Fragmented portfolio management** (Missing link between demand and
+* **Fragmented portfolio management** (Missing link between demand and
 supply): Implementing and managing portfolios requires technical
 know-how and implies high transaction costs across multiple platforms and exchanges. The diversity of
 technologies (e.g., protocols, platforms, languages) and the resulting
@@ -97,7 +97,7 @@ their digital assets. On the other hand, from the financial services
 intermediaries\' perspective, accessing or offering those portfolios
 is often hindered by further practical or regulatory constraints.
 
-● **Complex and incomplete solutions** (Existing supply solution
+* **Complex and incomplete solutions** (Existing supply solution
 side): Current DeFi solutions add complexity and are mainly
 technology-centred as opposed to being not
 personalised/portfolio-based, nor empowering users through open
@@ -194,14 +194,14 @@ regulated way
 We believe that the key success factors and differentiators for
 Divercefi rely in:
 
-● **Most convenient portfolio building and tracking** browser
+* **Most convenient portfolio building and tracking** browser
 experience on the market, for beginner to advanced investors
 
-● **Largest coverage of all possible asset types and classes**,
+* **Largest coverage of all possible asset types and classes**,
 potentially tens of thousands, to open the door to optimal portfolio
 diversification, hence our name ;)
 
-● **True Social, gamified and community-based** investing to enable a
+* **True Social, gamified and community-based** investing to enable a
 more inclusive and fun investment experience focused on quality
 instead of fees and middlemen
 
@@ -214,7 +214,7 @@ Product and Go-to-market Roadmap (Indicative as of 11.10.2023)
 | Divercefi 1.1                 	| - Risk Score (volatility and diversification) - Portfolio Discovery (metamask, temple and Cede labs) 	          | December  2023 	|
 | Divercefi 2.0              	    | - Investor Profiling - 5-6 Asset Classes - Premium Accounts (Enhanced Portfolio tracking) - Public Portfolios 	| Q1 2024 	      |
 
-For any inquiries please reach out to our team
+For any inquiries please reach out to our team hello@divercefi.com
 
 The material contained on this document is for informational purposes
 only and Divercefi (Cryptoesy AG) is not soliciting any action based
