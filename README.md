@@ -1,8 +1,8 @@
 <img width="901" alt="Screenshot 2023-10-11 at 14 15 27" src="https://github.com/cryptoeasy/whitepaper/assets/41304724/7fb33abd-11c4-4283-b40e-ca23a9f8d805">
 
-Divercefi White Paper 2.0
+# Divercefi White Paper 2.0
 
-Preface
+## Preface
 
 This updated short White Paper aims to provide an update to
 Divercefi's (Ex-Cryptoeasy) original whitepaper issued about 2 years
@@ -13,7 +13,7 @@ the approach will be different as a detailed roadmap and features will
 not be outlined in this document better aligned with Agile and lean
 startup principles.
 
-Abstract
+## Abstract
 
 Retail investment has skyrocketed in past years and expanded to
 further asset classes (e.g., Equities, Secondaries, Cryptocurrencies,
@@ -30,7 +30,7 @@ enabling users to follow best investment strategies and connect with
 any TradFi, CeFi or DeFi solution. In terms of approach, Divercefi
 will be user-centred, independent and non-custodial.
 
-Introduction
+## Introduction
 
 Financial inclusion is at the heart of our purpose and motivation to
 provide financial education, investment management tools and solutions
@@ -59,7 +59,7 @@ activities: they are high in (emotional) engagement as investors are
 very involved in their investments and exchange with their
 surroundings about opportunities.
 
-Problem
+## Problem
 
 Over the last years, Millions of new retail investors have started
 exploring alternative asset classes, especially Cryptocurrencies. This
@@ -117,7 +117,7 @@ emotional cycles, lack of transparency within emerging financial
 markets, sizable liquidity crunches has led to hundreds of billions
 into wealth destruction.
 
-Value proposition
+## Value proposition
 
 Addressing these concerns is the mission of Divercefi to facilitate for
 everyone the (financial)
@@ -180,7 +180,7 @@ portfolio performance. The mechanism behind is defined as
 Proof-of-Return and utilises Oracle smart contracts (for further
 reference please check the original Whitepaper V1.4).
 
-Approach and Key success factors
+## Approach and Key success factors
 
 As opposed to "CeFi in the front, DeFi in the back" approach, followed
 by many CeFi players targeted at mainstream investors regarding Web3,
@@ -192,19 +192,19 @@ financial platforms, service providers or technology in a trusted and
 regulated way
 
 We believe that the key success factors and differentiators for
-Divercefi rely in:\
+Divercefi rely in:
 
 ● **Most convenient portfolio building and tracking** browser
-experience on the market, for beginner to advanced investors\
+experience on the market, for beginner to advanced investors
 
 ● **Largest coverage of all possible asset types and classes**,
 potentially tens of thousands, to open the door to optimal portfolio
-diversification, hence our name ;)\
+diversification, hence our name ;)
 
 ● **True Social, gamified and community-based** investing to enable a
 more inclusive and fun investment experience focused on quality
 instead of fees and middlemen
->
+
 Product and Go-to-market Roadmap (Indicative as of 11.10.2023)
 
 | Product version               	| Solutions and Features                                                                                 	        | Launch date    	|
@@ -219,7 +219,7 @@ For any inquiries please reach out to our team
 The material contained on this document is for informational purposes
 only and Divercefi (Cryptoesy AG) is not soliciting any action based
 upon such material. The material is not to be construed as an offer or
-a\
+a
 recommendation to buy or sell a security, cryptocurrencies, or EASY
 Token itself nor is it to be construed as investment advice.
 Additionally, the material accessible through this website does not
