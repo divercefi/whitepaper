@@ -80,9 +80,7 @@ accessible to everyone:
 
 * **Difficult asset and portfolio selection**
 (Retail demand side): Investors face difficult selection, set up and
-management of financial portfolios across asset classes.
-
-Identifying trending and performing assets as well as assembling them
+management of financial portfolios across asset classes. Identifying trending and performing assets as well as assembling them
 in diversified and personalised portfolios remains the key entry
 challenge.
 
@@ -100,9 +98,7 @@ is often hindered by further practical or regulatory constraints.
 side): Current DeFi solutions add complexity and are mainly
 technology-centred as opposed to being not
 personalised/portfolio-based, nor empowering users through open
-communities.
-
-During strong market cycles, these centralised platforms end up
+communities. During strong market cycles, these centralised platforms end up
 overexposed and limit their customers to withdraw their funds.
 
 In terms of impact, the lack of solutions facilitating intelligent
