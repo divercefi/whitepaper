@@ -31,8 +31,7 @@ Over the last years, Millions of new retail investors have started exploring alt
 What are the key reasons that still make intelligent investing not accessible to everyone:
 
 * **Difficult asset and portfolio selection**
-(Retail demand side): Investors face difficult selection, set up and management of financial portfolios across asset classes. Identifying trending and performing assets as well as assembling them in diversified
-and personalised portfolios remains the key entry challenge.
+(Retail demand side): Investors face difficult selection, set up and management of financial portfolios across asset classes. Identifying trending and performing assets as well as assembling them in diversified and personalised portfolios remains the key entry challenge.
 
 * **Fragmented portfolio management** (Missing link between demand and supply):
 Implementing and managing portfolios requires technical know-how and implies high transaction costs across multiple platforms and exchanges. The diversity of technologies (e.g., protocols, platforms, languages) and the resulting thousands of asset types lead to significant complexity to build, share, and manage desired portfolios. Furthermore, investors struggle to keep a clear overview when exploring, investing in, and storing their digital assets. On the other hand, from the financial services intermediaries' perspective, accessing or offering those portfolios is often hindered by further practical or regulatory constraints.
@@ -43,7 +42,7 @@ In terms of impact, the lack of solutions facilitating intelligent investing as 
 
 ## Value proposition
 
-Addressing these concerns is the mission of Divercefi to facilitate for everyone the (financial) access to digital assets, irrespective of their specific applications, platforms, and ecosystems. This includes users with low technological or financial expertise.
+Addressing these concerns is the mission of Divercefi to facilitate for everyone the (financial) access to digital assets, irrespective of their specific applications, platforms, and ecosystems. This includes users with low technological or financial expertise.<br />
 As a result, investors should be able to discover new asset portfolios, connect to existing portfolios, or build personalised investment portfolios and manage them with our interface. Based on their portfolios, investors should also be able to leverage investment opportunities and DeFi products. Fundamentally, Divercefi will allow users to navigate along their investor journey by themselves.
 
 To achieve this outcome we are building the ultimate investment management ecosystem:
@@ -70,13 +69,13 @@ We believe that the key success factors and differentiators for Divercefi rely i
 potentially tens of thousands, to open the door to optimal portfolio diversification, hence our name ;)
 * **True Social, gamified and community-based** investing to enable a more inclusive and fun investment experience focused on quality instead of fees and middlemen
 
-Product and Go-to-market Roadmap (Indicative as of 11.10.2023)
+Product and Go-to-market Roadmap (Indicative as of 16.07.2024)
 
 | Product version               	| Solutions and Features                                                                                 	                                        | Launch date    	|
 |-------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------ |----------------	|
-| Divercefi 1.0 (Soft Launch)   	| - 2-3 Asset Classes - Portfolio Building - Simple Portfolio Tracking                                	                                          | November 2023  	|
-| Divercefi 1.0 (Public Launch) 	| - Aggregated Portfolio View	- Feedback Chat Interface - Cede Labs automated CeFi tracking                                                       | December 2023  	|
-| Divercefi 2.0              	    | - Updated graph functionality - UI/UX improvements - Cede labs fixed 	                                                                          | March 2024 	    |
+| Divercefi 1.0 (Soft Launch)   	| - 2 Asset Classes - Portfolio Building - Simple Portfolio Tracking                                	                                          | November 2023  	|
+| Divercefi 1.1 (Public Launch) 	| - Aggregated Portfolio View	- Feedback Chat Interface - Cede Labs automated CeFi tracking                                                       | December 2023  	|
+| Divercefi 2.0              	    | - Updated graph functionality - UI/UX improvements - Cede labs integration completion 	                                                                          | March 2024 	    |
 | Divercefi 2.1              	    | - 1-2k digital assets added to the interface 	                                                                                                  | April 2024 	    |
 | Divercefi 2.2              	    | - New accounts page for automated DeFi wallet tracking 	                                                                                        | April 2024 	    |
 | Divercefi 2.3              	    | - New portfolio return formula including the portfolio historic changes - Adding and withdrawing cash position separated from invested capital 	| May 2024 	      |
@@ -86,7 +85,7 @@ Product and Go-to-market Roadmap (Indicative as of 11.10.2023)
 | Divercefi 2.7             	    | - Analytical page for portfolio planning and analysis - Add commodities and real estate - Paid subscription                                                                                                          | September 2024 	      |
 | Divercefi 3.0              	    | - Social Portfolios                                                                                                          | Q4 2024 	      |
 
-## Approach and Key success factors
+## APPENDIX - Social investing via EASY tokens
 
 The social Investing feature aims to foster a community-driven investment environment where the best portfolio strategies are incentivized through token rewards. This feature will evolve through three phases:
 * Public Portfolios (V1.0)
