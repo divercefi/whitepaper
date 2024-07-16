@@ -1,14 +1,14 @@
 <img width="901" alt="Screenshot 2023-10-11 at 14 15 27" src="https://github.com/cryptoeasy/whitepaper/assets/41304724/7fb33abd-11c4-4283-b40e-ca23a9f8d805">
 
-# Divercefi White Paper 2.1
+# Divercefi White Paper 2.2
 
 ## Preface
 
-This updated short White Paper aims to provide an update to Divercefi’s (Ex-Cryptoeasy) original whitepaper issued about 2 years ago. The past 2 years have been full of learnings and challenges in the current DEFI market and have enabled the team to pivot from the initial strategy and shift the scope of our value proposition. Also, the approach will be different as a detailed roadmap and features will not be outlined in this document better aligned with Agile and lean startup principles.
+This updated short White Paper aims to provide an update to Divercefi’s (Ex-Cryptoeasy) original whitepaper issued about 2 years ago. The past 2 years have been full of learnings and challenges in the current DeFi market and have enabled the team to pivot from the initial strategy and shift the scope of our value proposition. Also, the approach will be different as a detailed roadmap and features will not be outlined in this document better aligned with Agile and lean startup principles.
 
 ## Abstract
 
-Retail investment has skyrocketed in past years and expanded to further asset classes (e.g., Equities, Secondaries, Cryptocurrencies, Commodities, and Derivatives), partly enabled by the emergence of accessible online banks, brokers, and other investment platforms. On the other hand, accessible and independent investment management tools are still missing for investors to educate themselves, plan, set up, and manage their investments over time. Divercefi is building the ultimate investment management solution for retail investors to discover new investment opportunities, build diversified portfolios, and keep track of all their investments. The ambition of Divercefi is to build an open financial ecosystem leveraging Web3 technology enabling users to follow best investment strategies and connect with any TradFi, CeFi or DeFi solution. In terms of approach, Divercefi will be user-centred, independent and non-custodial.
+Retail investment has skyrocketed in past years and expanded to further asset classes (e.g., equities, secondaries, cryptocurrencies, commodities, and derivatives), partly enabled by the emergence of accessible online banks, brokers, and other investment platforms. On the other hand, accessible and independent investment management tools are still missing for investors to educate themselves, plan, set up, and manage their investments over time. Divercefi is building the ultimate investment management solution for retail investors to discover new investment opportunities, build diversified portfolios, and keep track of all their investments. The ambition of Divercefi is to build an open financial ecosystem leveraging Web3 technology enabling users to follow best investment strategies and connect with any TradFi, CeFi or DeFi solution. In terms of approach, Divercefi will be user-centred, independent and non-custodial.
 
 ## Introduction
 
@@ -18,7 +18,7 @@ The vision of Divercefi is to become a leading open financial ecosystem leveragi
 
 Our vision is comparable to the emergence of other ecosystems in other industries:
 
-* **Music with Spotify:** Social music experience platform not owned by record companies, combining users and artists
+* **Music with Spotify:** Social music experience platform not owned by record labels, combining users and artists
 * **Networking with Linkedin:** Social networking experience platform not owned by companies, combining users, companies, and communities
 * **Investing with Divercefi:** Social investment experience interface not owned by banks and brokers, combining investors and regulated financial service providers
 
@@ -34,16 +34,8 @@ What are the key reasons that still make intelligent investing not accessible to
 (Retail demand side): Investors face difficult selection, set up and management of financial portfolios across asset classes. Identifying trending and performing assets as well as assembling them in diversified
 and personalised portfolios remains the key entry challenge.
 
-* **Fragmented portfolio management** (Missing link between demand and
-supply): Implementing and managing portfolios requires technical
-know-how and implies high transaction costs across multiple platforms and exchanges. The diversity of
-technologies (e.g., protocols, platforms, languages) and the resulting
-thousands of asset types lead to significant complexity to build,
-share, and manage desired portfolios. Furthermore, investors struggle
-to keep a clear overview when exploring, investing in, and storing
-their digital assets. On the other hand, from the financial services
-intermediaries\' perspective, accessing or offering those portfolios
-is often hindered by further practical or regulatory constraints.
+* **Fragmented portfolio management** (Missing link between demand and supply):
+Implementing and managing portfolios requires technical know-how and implies high transaction costs across multiple platforms and exchanges. The diversity of technologies (e.g., protocols, platforms, languages) and the resulting thousands of asset types lead to significant complexity to build, share, and manage desired portfolios. Furthermore, investors struggle to keep a clear overview when exploring, investing in, and storing their digital assets. On the other hand, from the financial services intermediaries' perspective, accessing or offering those portfolios is often hindered by further practical or regulatory constraints.
 
 * **Complex and incomplete solutions** (Existing supply solution side): Current DeFi solutions add complexity and are mainly technology-centred as opposed to being not personalised/portfolio-based, nor empowering users through open communities. During strong market cycles, these centralised platforms end up overexposed and limit their customers to withdraw their funds.
 
@@ -62,9 +54,9 @@ To achieve this outcome we are building the ultimate investment management ecosy
 
 **3.** **Investment implementation:** Enable investors to connect to any broker and exchange to buy and manage all their portfolios positions from a single trusted interface. Going further, leveraging Open banking and DeFi, investors will be able to intelligently allocate their investments and service their assets for yield, interest rate, and return optimization.
 
-**4.** **Social investing:** Enable investors to follow and copy the best strategies and successful investors leveraging public portfolio sharing. Building an ecosystem, investors will be able to access regulated managed portfolios or get in touch with independent financial advisors. Gamification will also be introduced to let best investors compete, earn virtual tokens (see below) and get recognized within the community.
+**4.** **Social investing:** Enable investors to follow and copy the best strategies and successful investors leveraging public portfolio sharing. Building an ecosystem, investors will be able to access regulated managed portfolios or get in touch with independent financial advisors. Gamification will also be introduced to let best investors compete, earn virtual EASY tokens (see below) and get recognized within the community.
 
-Technology wise, we plan to leverage Web3 technology (DeFi, NFTs, Data Oracles, DAO tokens) in 2 ways. First, as we cover all asset classes, including Cryptocurrencies, we intend to provide seamless multi-chain wallet and DEX integration to let investors track digital assets on their various wallets, implement portfolio investments on multiple DEXs/CEXs all at once, and select best DeFi liquidity rewards. Second, at a later stage in the future we plan to potentially base social investing on Token rewards introducing the concept of Portfolio Staking. Investors staking tokens on portfolios and earning/ losing tokens based on relative
+Technology wise, we plan to leverage Web3 technology (DeFi, NFTs, Data Oracles, DAO tokens) in 2 ways. First, as we cover all asset classes, including Cryptocurrencies, we intend to provide seamless multi-chain wallet and DEX integration to let investors track digital assets on their various wallets, implement portfolio investments on multiple DEXs/CEXs all at once, and select best DeFi liquidity rewards. Second, as illustrated below in the Appendix we plan to base social investing on Token rewards introducing the concept of Portfolio Staking. Investors staking tokens on portfolios and earning/ losing tokens based on relative
 portfolio performance. The mechanism behind is defined as Proof-of-Return and utilises Oracle smart contracts (for further reference please check the original Whitepaper V1.4).
 
 ## Approach and Key success factors
@@ -83,15 +75,68 @@ Product and Go-to-market Roadmap (Indicative as of 11.10.2023)
 | Product version               	| Solutions and Features                                                                                 	                                        | Launch date    	|
 |-------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------ |----------------	|
 | Divercefi 1.0 (Soft Launch)   	| - 2-3 Asset Classes - Portfolio Building - Simple Portfolio Tracking                                	                                          | November 2023  	|
-| Divercefi 1.0 (Public Launch) 	| - Aggregated Portfolio View	- Feedback Chat Interface - Cede Labs automated CeFi tracking                                                       | November 2023  	|
+| Divercefi 1.0 (Public Launch) 	| - Aggregated Portfolio View	- Feedback Chat Interface - Cede Labs automated CeFi tracking                                                       | December 2023  	|
 | Divercefi 2.0              	    | - Updated graph functionality - UI/UX improvements - Cede labs fixed 	                                                                          | March 2024 	    |
 | Divercefi 2.1              	    | - 1-2k digital assets added to the interface 	                                                                                                  | April 2024 	    |
 | Divercefi 2.2              	    | - New accounts page for automated DeFi wallet tracking 	                                                                                        | April 2024 	    |
 | Divercefi 2.3              	    | - New portfolio return formula including the portfolio historic changes - Adding and withdrawing cash position separated from invested capital 	| May 2024 	      |
-| Divercefi 2.4              	    | - Risk score for assets and portfolios 	                                                                                                        | May 2024 	      |
-| Divercefi 2.5              	    | - Forex added as asset class - Change base currency on top 	                                                                                    | May 2024 	      |
-| Divercefi 3.0              	    | - Social Portfolios - Payment terminal                                                                                                          | Q3 2024 	      |
+| Divercefi 2.4              	    | - Risk score for assets and portfolios 	                                                                                                        | July 2024 	      |
+| Divercefi 2.5              	    | - Additional stocks and ETFs - Tracking date change 	                                                                                    | July 2024 	      |
+| Divercefi 2.6              	    | - Forex added - Alternatives added - More ETFs stocks and funds                                                                                                          | August 2024 	      |
+| Divercefi 2.7             	    | - Analytical page for portfolio planning and analysis - Add commodities and real estate - Paid subscription                                                                                                          | September 2024 	      |
+| Divercefi 3.0              	    | - Social Portfolios                                                                                                          | Q4 2024 	      |
 
+## Approach and Key success factors
+
+The social Investing feature aims to foster a community-driven investment environment where the best portfolio strategies are incentivized through token rewards. This feature will evolve through three phases:
+* Public Portfolios (V1.0)
+* Social Portfolios (V2.0), and
+* Portfolio Staking (V3.0).
+
+## V1.0 Public Portfolios
+
+**Overview**
+
+Portfolio builders can choose to make their portfolios public, allowing subscribers to follow and allocate funds to these strategies. This transparency and social engagement are designed to encourage community interaction and knowledge sharing.
+
+**Leaderboard**
+
+A dedicated “Leaderboard” will rank public portfolios based on two criteria:
+* Number of followers
+* Performance metrics (weekly, monthly, annual)
+This ranking system will help highlight successful strategies and portfolio managers, driving competition and performance improvement.
+
+**Portfolio Composition Rules**
+
+Public portfolios operate under specific rules:
+* Portfolio compositions can be adjusted but changes only take effect at the end of an
+EPOCH.
+* Performance metrics are calculated based on the composition during the EPOCH.
+* Portfolios are managed virtually with percentage allocations, preventing the addition or
+subtraction of cash that could alter percentage positions.
+
+## V2.0 Social Portfolios
+
+**Token Rewards**
+
+Portfolio builders will earn tokens based on their market performance at the end of each EPOCH. The performance will be normalized to ensure fairness, and builders must have a minimum follower count (initially set to 2) to qualify for rewards.
+
+## V3.0 Portfolio Staking
+
+**Staking Mechanism**
+
+Followers can stake tokens to gain voting rights on portfolio rebalancing decisions for the next EPOCH. This participatory approach ensures that followers are actively engaged in the portfolio management process.
+
+**Rewards and Fees**
+
+* Followers earn or lose tokens based on the portfolio’s performance.
+* Portfolio managers receive a management fee of 2% based on the staked funds,
+providing a direct incentive for effective portfolio management.
+
+This feature aims to create a dynamic and interactive investment community, leveraging social dynamics and token incentives to promote optimal investment strategies and community engagement.
+
+
+—
 For any inquiries please reach out to our team hello@divercefi.com
 
 The material contained on this document is for informational purposes only and Divercefi (Cryptoesy AG) is not soliciting any action based upon such material. The material is not to be construed as an offer or a recommendation to buy or sell a security, cryptocurrencies, or EASY Token itself nor is it to be construed as investment advice. Additionally, the material accessible through this website does not constitute a representation that the investments described herein are suitable or appropriate for any person. For further information please check our Terms and Conditions as well as the Privacy Policy.
