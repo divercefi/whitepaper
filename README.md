@@ -49,7 +49,7 @@ To achieve this outcome we are building the ultimate investment management ecosy
 
 **1.** **Portfolio building:** Enable investors to get financially educated by discovering assets from several asset classes, plan their investment strategies, and build their portfolios. Going forward, Investor profiling and AI chat interface will support investors in a personal way.
 
-**2.** **Portfolio Tracking:** Enable investors to track and backtest continuously any portfolio. The Portfolio discovery feature lets them connect their Banks, Broker, CeFii and DeFi solutions (e.g. wallets) to keep an overview of all their positions across platforms. Going forward, advanced metrics, risk scoring and dashboards will facilitate rebalancing and risk management.
+**2.** **Portfolio tracking:** Enable investors to track and backtest continuously any portfolio. The Portfolio discovery feature lets them connect their Banks, Broker, CeFii and DeFi solutions (e.g. wallets) to keep an overview of all their positions across platforms. Going forward, advanced metrics, risk scoring and dashboards will facilitate rebalancing and risk management.
 
 **3.** **Investment implementation:** Enable investors to connect to any broker and exchange to buy and manage all their portfolios positions from a single trusted interface. Going further, leveraging Open banking and DeFi, investors will be able to intelligently allocate their investments and service their assets for yield, interest rate, and return optimization.
 
